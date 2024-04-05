@@ -19,11 +19,11 @@
     path> virtualenv env
 
 5. Activate Virtual Environment
-    path> cd env/
-    path\env> cd Scripts
-    path\env\Scripts> activate
-    path\env\Scripts> cd ..
-    path\env> cd ..
+    path>               cd env/
+    path\env>           cd Scripts
+    path\env\Scripts>   activate
+    path\env\Scripts>   cd ..
+    path\env>           cd ..
 
 
 6. Install Django
